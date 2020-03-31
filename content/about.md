@@ -7,4 +7,4 @@ Hi there!!
 
 My name is Thanh. 
 
-I come form Ha Tinh province.
+I'm come form Ha Tinh province.
